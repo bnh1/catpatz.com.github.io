@@ -1,0 +1,404 @@
+.paragraph_style {
+    color: rgb(245, 100, 21);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_1 {
+    color: rgb(128, 120, 131);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: rgb(255, 47, 146);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_3 {
+    color: rgb(3, 3, 3);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 28px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 41px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: rgb(169, 169, 169);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Body {
+    color: rgb(169, 169, 169);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_textbox_layout_style_default_External_422_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_159_32 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_307_30 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_195_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_97_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_362_45 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_210_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_321_33 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_264_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_224_36 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_76_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_78_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_475_23 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_232_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_284_31 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_301_27 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_151_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_300_29 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_372_27 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(255, 47, 146);
+    text-decoration: underline;
+}
+a.class1 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class1:visited {
+    color: rgb(255, 47, 146);
+}
+a.class1:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class10 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class10:visited {
+    color: rgb(255, 47, 146);
+}
+a.class10:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class11 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class11:visited {
+    color: rgb(255, 47, 146);
+}
+a.class11:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class12 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class12:visited {
+    color: rgb(255, 47, 146);
+}
+a.class12:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class2 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class2:visited {
+    color: rgb(255, 47, 146);
+}
+a.class2:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class3 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class3:visited {
+    color: rgb(255, 47, 146);
+}
+a.class3:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class4 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class4:visited {
+    color: rgb(255, 47, 146);
+}
+a.class4:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class5 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class5:visited {
+    color: rgb(255, 47, 146);
+}
+a.class5:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class6 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class6:visited {
+    color: rgb(255, 47, 146);
+}
+a.class6:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class7 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class7:visited {
+    color: rgb(255, 47, 146);
+}
+a.class7:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class8 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class8:visited {
+    color: rgb(255, 47, 146);
+}
+a.class8:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a.class9 {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+a.class9:visited {
+    color: rgb(255, 47, 146);
+}
+a.class9:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a:hover {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(255, 47, 146);
+    text-decoration: underline;
+}
+#widget0 a {
+    color: rgb(169, 169, 169);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}

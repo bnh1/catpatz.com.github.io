@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:EB836460-19CB-11DB-BCE4-0011247A080C</id>
+ <title>Page list Atom feed</title>
+ <updated>2011-08-15T19:59:48+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:9BB4D76E-19CC-11DB-BCE4-0011247A080C</id>
+  <title>catpatz</title>
+  <title xmlns="urn:iweb:">catpatz</title>
+  <in-navbar xmlns="urn:iweb:">9BB4D76E-19CC-11DB-BCE4-0011247A080C</in-navbar>
+  <link rel="alternate" href="catpatz.html"/>
+  <updated>2011-08-15T19:59:48.001+02:00</updated>
+  <content>catpatz</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:70CB70FA-19D2-11DB-BCE4-0011247A080C</id>
+  <title>who</title>
+  <title xmlns="urn:iweb:">who</title>
+  <in-navbar xmlns="urn:iweb:">70CB70FA-19D2-11DB-BCE4-0011247A080C</in-navbar>
+  <link rel="alternate" href="who.html"/>
+  <updated>2011-08-15T19:59:48.002+02:00</updated>
+  <content>who</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EC009802-19E0-11DB-BCE4-0011247A080C</id>
+  <title>words</title>
+  <title xmlns="urn:iweb:">words</title>
+  <in-navbar xmlns="urn:iweb:">EC009802-19E0-11DB-BCE4-0011247A080C</in-navbar>
+  <link rel="alternate" href="words.html"/>
+  <updated>2011-08-15T19:59:48.003+02:00</updated>
+  <content>words</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DE022171-A824-4972-88D8-83A752983E99</id>
+  <title>drawings</title>
+  <title xmlns="urn:iweb:">drawings</title>
+  <in-navbar xmlns="urn:iweb:">DE022171-A824-4972-88D8-83A752983E99</in-navbar>
+  <link rel="alternate" href="drawings.html"/>
+  <updated>2011-08-15T19:59:48.004+02:00</updated>
+  <content>drawings</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CA8BBEF4-FEE9-4A9A-A0B8-C96E2180459E</id>
+  <title>comilog</title>
+  <title xmlns="urn:iweb:">comilog</title>
+  <in-navbar xmlns="urn:iweb:">CA8BBEF4-FEE9-4A9A-A0B8-C96E2180459E</in-navbar>
+  <link rel="alternate" href="comilog.html"/>
+  <updated>2011-08-15T19:59:48.005+02:00</updated>
+  <content>comilog</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9FD84D30-2297-11DB-9E9C-0011247A080C</id>
+  <title>say hi</title>
+  <title xmlns="urn:iweb:">say hi</title>
+  <in-navbar xmlns="urn:iweb:">9FD84D30-2297-11DB-9E9C-0011247A080C</in-navbar>
+  <link rel="alternate" href="say_hi.html"/>
+  <updated>2011-08-15T19:59:48.006+02:00</updated>
+  <content>say hi</content>
+ </entry>
+</feed>
